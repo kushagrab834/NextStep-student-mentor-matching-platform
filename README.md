@@ -81,3 +81,43 @@ The Year 2 schema introduces fields to capture the "Fork in the Road" or the "Su
     }
   }
 }
+
+````
+
+## ♟️ Year 3: The High-Stakes Strategy Phase
+In the third year, broad exploration ends and execution begins. Students are aggressively preparing for the PT Cell (Placement Team) internship drive or applying to foreign universities ("Apping"). The system transitions from matching "Paths" to matching **Execution Tactics and Risk Hedging**.
+
+### 1. Dilemma Categories
+| Category | Description | Key Focus |
+| :--- | :--- | :--- |
+| **`APP_VS_INTERN`** | Applying for foreign university research ("Apping") vs. sitting for PT Cell corporate internships. | **Career Trajectory** |
+| **`PREP_PATH_SELECTION`** | Allocating limited prep time: SDE (LeetCode) vs. Consulting (Case Prep) vs. Quant (Math). | **Resource Allocation** |
+| **`PIVOT_INDUSTRY` (Late Phase)** | Realizing late in the degree that the core branch isn't a fit and attempting a rapid pivot. | **Damage Control & Speed** |
+| **`MINOR_OR_DOUBLEDOWN`** | Deciding whether to drop a Minor degree to protect CGPA for the upcoming intern season. | **Academic Triage** |
+
+### 2. Year 3 Student Schema: The Execution Plan
+The Year 3 schema focuses heavily on the student's *target metrics* and *fallback options*. We use the `APP_VS_INTERN` dilemma here as the primary example.
+
+```json
+{
+  "profile": {
+    "academic_year": 3,
+    "branch": "Your_Branch",
+    "cgpa_bracket": "8.5 - 9.0"
+  },
+  "current_dilemma": {
+    "category": "APP_VS_INTERN",
+    "context_specifics": {
+      "research_target": "US/Europe Labs (Robotics)",
+      "corporate_fallback": "FMCG Supply Chain roles via PT Cell",
+      "current_prep_state": "Emailed 50 professors, 0 positive replies.",
+      "leaning_towards": "Apping, but getting anxious about having no backup."
+    },
+    "psychology": {
+      "core_value_driver": "Prestige & Academic Excellence",
+      "primary_blocker": "High uncertainty and fear of graduating empty-handed",
+      "risk_tolerance": "High"
+    }
+  }
+}
+````
