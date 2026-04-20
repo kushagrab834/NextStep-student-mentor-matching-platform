@@ -1,0 +1,99 @@
+[
+  {
+    "mentor_id": "M_201",
+    "current_professional_profile": {
+      "name": "Ishaan",
+      "current_role": "SDE-2",
+      "company": "Google",
+      "graduation_year": 2023,
+      "major": "Computer Science",
+      "industry_keywords": ["Big Tech", "Backend", "Scalability"]
+    },
+    "campus_legacy": {
+      "hostel": "H3",
+      "notable_affiliations": ["Web and Coding Club", "Techfest"]
+    },
+    "historical_dilemmas": [
+      {
+        "category": "POR_VS_TECH_TEAM",
+        "year_faced": 2,
+        "choice_made": "Joined Techfest (POR)",
+        "outcome_summary": "Helped build leadership skills but missed out on deep coding time.",
+        "hindsight_sentiment": "Neutral"
+      },
+      {
+        "category": "ACCEPT_PPO_VS_PLACEMENTS",
+        "year_faced": 4,
+        "choice_made": "Accepted PPO",
+        "outcome_summary": "Secured stability early and focused on side projects in final year.",
+        "hindsight_sentiment": "Positive"
+      }
+    ],
+    "mentoring_meta": {
+      "advice_style": "Practical/Safe",
+      "student_preference": "High-performers looking for stability",
+      "weekly_bandwidth": 3,
+      "communication_mode": "15-min Zoom"
+    }
+  },
+  {
+    "mentor_id": "M_202",
+    "current_professional_profile": {
+      "name": "Meera",
+      "current_role": "PhD Researcher",
+      "company": "Stanford University",
+      "graduation_year": 2024,
+      "major": "Mechanical Engineering",
+      "industry_keywords": ["Robotics", "Control Systems", "Academia"]
+    },
+    "campus_legacy": {
+      "hostel": "H10",
+      "notable_affiliations": ["IITB Racing", "Research Society"]
+    },
+    "historical_dilemmas": [
+      {
+        "category": "APP_VS_INTERN",
+        "year_faced": 3,
+        "choice_made": "University Research (Apping)",
+        "outcome_summary": "Got a publication which was key for my Masters/PhD apps.",
+        "hindsight_sentiment": "Positive"
+      }
+    ],
+    "mentoring_meta": {
+      "advice_style": "High-Risk/Ambitious",
+      "student_preference": "Students aiming for research or grad school",
+      "weekly_bandwidth": 2,
+      "communication_mode": "LinkedIn DM"
+    }
+  },
+  {
+    "mentor_id": "M_203",
+    "current_professional_profile": {
+      "name": "Rohan",
+      "current_role": "Co-Founder",
+      "company": "FinTech Startup",
+      "graduation_year": 2022,
+      "major": "Electrical Engineering",
+      "industry_keywords": ["Entrepreneurship", "Product", "Venture Capital"]
+    },
+    "campus_legacy": {
+      "hostel": "H16",
+      "notable_affiliations": ["E-Cell", "SINE"]
+    },
+    "historical_dilemmas": [
+      {
+        "category": "BUILD_STARTUP_VS_STABILITY",
+        "year_faced": 3,
+        "choice_made": "Built own startup",
+        "outcome_summary": "The startup failed after a year, but the experience got me my current co-founder role.",
+        "hindsight_sentiment": "Positive"
+      }
+    ],
+    "mentoring_meta": {
+      "advice_style": "Empathetic",
+      "student_preference": "Early explorers and risk-takers",
+      "weekly_bandwidth": 1,
+      "communication_mode": "Coffee on campus"
+    }
+  }
+]
