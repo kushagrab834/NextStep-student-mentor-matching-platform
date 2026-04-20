@@ -238,20 +238,10 @@ Below is a highly detailed, algorithm-ready Mentor Schema designed to perfectly 
 
 ````
 
+### 2. How This Schema Powers the Algorithm
+This structure perfectly supports the targeted matching logic outlined in the previous phases:
 
-
-
-
-
-
-
-
-
-
-
-
-
-  }
-}
-
-````
+* **Powers Year 1 (Keyword Intersection):** When a confused freshman inputs `["Mentorship", "Machine Learning"]` into their `EXPLORATION_DILEMMA`, the algorithm sweeps the mentor's `industry_keywords` and `notable_affiliations` to find an immediate match.
+* **Powers Year 2 (Path Alignment):** If a sophomore is stuck in a `TECH_DOMAIN_DIVERSION` between Web Dev and ML, the algorithm dives into the mentor's `historical_dilemmas`. It sees this mentor explicitly chose ML over Web Dev, granting a massive `+25 pts Exact Path Match`.
+* **Powers Year 3 (Tactical Alignment):** If a junior is terrified about balancing `APP_VS_INTERN` and has a CGPA in the 8.5 range, the system matches them with this mentor who successfully navigated international "apping" with that exact academic profile.
+* **Powers Year 4 (Regret & Risk Alignment):** The `hindsight_sentiment` field is the platform's secret weapon. Because this mentor rated pushing through burnout as "Negative", if a Year 3/4 student asks about quitting a POR to focus on their mental health, this mentor gets heavily prioritized to offer that "Cautionary Tale" perspective.
