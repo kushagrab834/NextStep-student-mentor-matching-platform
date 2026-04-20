@@ -155,6 +155,102 @@ The Year 4 schema captures "The Hand They Are Dealt." We use the high-stress `AC
       "primary_blocker": "Fear of the 'Worst Case Scenario' (Recession market)",
       "risk_tolerance": "Medium-High"
     }
+
+````
+
+---
+
+## 🧠 The Mentor Schema: The "Time Machine"
+To make the matching logic work, the Mentor Schema cannot just be a static professional profile. It must act as a "Time Machine." It captures not only where the mentor is *now*, but the specific crossroads they faced at IITB, the choices they made, and how they feel about those choices in hindsight.
+
+Below is a highly detailed, algorithm-ready Mentor Schema designed to perfectly mirror the 4-year student progression. It is populated with a realistic profile of a senior who built an educational startup and completed an international tech internship.
+
+### 1. The Comprehensive Mentor Schema
+```json
+{
+  "mentor_id": "M_042",
+  "current_professional_profile": {
+    "name": "Aryan",
+    "graduation_year": 2024,
+    "current_role": "Founder & Technical Lead",
+    "company": "EdTech Mentorship Startup / Tokyo AI Labs",
+    "location": "Tokyo / Mumbai",
+    "industry_keywords": ["EdTech", "Video Analytics", "Machine Learning", "Entrepreneurship", "Mentorship"]
+  },
+  "campus_legacy": {
+    "branch": "Electrical Engineering",
+    "cgpa_at_graduation": "8.5 - 9.0",
+    "notable_affiliations": ["UGAC Data Analytics Team", "E-Cell"],
+    "exploration_stack_year_1": ["WCC", "IITB Racing", "Finance Club"]
+  },
+  "mentoring_meta": {
+    "advice_style": "High-Risk/Ambitious",
+    "communication_vibe": "Direct & Tactical",
+    "weekly_bandwidth_hours": 3,
+    "willing_to_review_resume": true
+  },
+  "historical_dilemmas": [
+    {
+      "category": "TECH_DOMAIN_DIVERSION",
+      "year_faced": 2,
+      "context_specifics": {
+        "options_considered": ["Web Development", "Machine Learning / AI"],
+        "path_taken": "Machine Learning / AI",
+        "primary_reason": "Wanted to build complex systems rather than just interfaces."
+      },
+      "outcome": "Secured a 3rd-year internship in Tokyo developing video analytic models.",
+      "hindsight_sentiment": "Positive"
+    },
+    {
+      "category": "APP_VS_INTERN",
+      "year_faced": 3,
+      "context_specifics": {
+        "research_target": "Applied ML Labs in Japan/US",
+        "corporate_fallback": "SDE roles via PT Cell",
+        "path_taken": "Committed fully to Apping, skipped Day 1 PT Cell."
+      },
+      "outcome": "Landed the Tokyo residency.",
+      "hindsight_sentiment": "Positive"
+    },
+    {
+      "category": "BUILD_STARTUP_VS_STABILITY",
+      "year_faced": 4,
+      "context_specifics": {
+        "startup_idea_stage": "Bootstrapping an educational mentorship platform",
+        "safety_net_offer": "Pre-Placement Offer (PPO) from an MNC",
+        "path_taken": "Rejected the PPO to scale the startup."
+      },
+      "outcome": "Currently operating the startup while acting as a Tech Lead.",
+      "hindsight_sentiment": "Mixed (High stress, but high reward)"
+    },
+    {
+      "category": "STEP_DOWN_VS_PUSH_THROUGH",
+      "year_faced": 3,
+      "context_specifics": {
+        "commitments": ["UGAC Tech Hackathons", "Heavy Core Academics", "Intern Prep"],
+        "path_taken": "Pushed through burnout without dropping PORs."
+      },
+      "outcome": "Completed the tenure successfully.",
+      "hindsight_sentiment": "Negative (Regrets not stepping down; the resume boost wasn't worth the mental toll)"
+    }
+  ]
+}
+
+````
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   }
 }
 
