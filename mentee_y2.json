@@ -1,0 +1,25 @@
+{
+  "student_id": "S_Y2_002",
+  "profile": {
+    "name": "Riya",
+    "academic_year": 2,
+    "branch": "Chemical Engineering",
+    "cgpa_bracket": "8.0 - 8.5"
+  },
+  "current_dilemma": {
+    "category": "DOMAIN_ADVANCEMENT_BLOCK",
+    "context_specifics": {
+      "current_domain": "Data Science / Machine Learning",
+      "time_invested": "10 months",
+      "current_milestones": ["Completed Andrew Ng Coursera", "Basic EDA on clean Kaggle datasets"],
+      "progression_blocker": "Stuck on 'toy' datasets. I don't know how to handle messy, real-world data or build an end-to-end project that recruiters actually care about.",
+      "target_level": "Industry-ready Data Science Intern for 3rd Year"
+    },
+    "psychology": {
+      "core_value_driver": "Mastery & Competence",
+      "primary_blocker": "Imposter Syndrome. I feel like the CS students are miles ahead of me in ML, and I don't have a high-level roadmap.",
+      "risk_tolerance": "Low (Afraid of wasting my crucial 2nd-year summer on a project that fails)"
+    },
+    "urgency": "High - Need to finalize my summer plans in the next 2 weeks."
+  }
+}

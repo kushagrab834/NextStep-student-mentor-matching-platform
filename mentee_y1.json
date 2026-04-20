@@ -1,0 +1,24 @@
+{
+  "student_id": "S_Y1_001",
+  "profile": {
+    "name": "Kabir",
+    "academic_year": 1,
+    "branch": "Mechanical Engineering",
+    "cgpa_bracket": "N/A"
+  },
+  "current_dilemma": {
+    "category": "EXPLORATION_DILEMMA",
+    "context_specifics": {
+      "curiosity_tags": ["Robotics", "Finance", "Consulting", "Product Management"],
+      "exploration_stack": ["Finance Club", "Aeromodelling Club", "Literary Arts", "NSS"],
+      "primary_curiosity": "Should I grind to join the hardcore tech teams (like IITB Racing/Mars Rover) or start building a non-tech profile for a flashy Day 1 job?",
+      "exploratory_objective": "Figuring out if core engineering is actually worth it, or if I should pivot early like everyone else."
+    },
+    "psychology": {
+      "core_value_driver": "Status & Intellectual Growth",
+      "primary_blocker": "Extreme FOMO. I loved physics during JEE, but I am terrified of missing out on the high-paying finance/consulting track.",
+      "risk_tolerance": "Medium"
+    },
+    "urgency": "Low - Just looking for perspective before Year 2 starts."
+  }
+}

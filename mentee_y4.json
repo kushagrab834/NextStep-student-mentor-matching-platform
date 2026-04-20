@@ -1,0 +1,24 @@
+{
+  "student_id": "S_Y4_004",
+  "profile": {
+    "name": "Dhruv",
+    "academic_year": 4,
+    "branch": "Electrical Engineering",
+    "cgpa_bracket": "8.0 - 8.5"
+  },
+  "current_dilemma": {
+    "category": "ACCEPT_PPO_VS_PLACEMENTS",
+    "context_specifics": {
+      "ppo_offer": "Hardware Engineer at Texas Instruments (CTC: 20LPA)",
+      "target_placements": "Day 1 Quant (Tower/Jane Street) or Top-tier PM (Microsoft/Google)",
+      "deadline_to_accept": "August 10th",
+      "current_leaning": "I want to reject the PPO to sit for Day 1, but I know my 8.2 CGPA makes getting shortlisted for Quant highly improbable."
+    },
+    "psychology": {
+      "core_value_driver": "Financial Upside & Prestige",
+      "primary_blocker": "Fear of the 'Worst Case Scenario' (Graduating unplaced in a recession year). Parents are heavily pressuring me to just take the safe job.",
+      "risk_tolerance": "High (Willing to gamble, but currently paralyzed by anxiety)"
+    },
+    "urgency": "Critical - PPO acceptance deadline is in 4 days."
+  }
+}

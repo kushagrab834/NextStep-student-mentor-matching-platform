@@ -1,0 +1,24 @@
+{
+  "student_id": "S_Y3_003",
+  "profile": {
+    "name": "Ananya",
+    "academic_year": 3,
+    "branch": "Engineering Physics",
+    "cgpa_bracket": "8.5 - 9.0"
+  },
+  "current_dilemma": {
+    "category": "APP_VS_INTERN",
+    "context_specifics": {
+      "research_target": "Applied Physics / Quantum Computing Labs in Europe/US",
+      "corporate_fallback": "Software or Corporate R&D via PT Cell",
+      "current_prep_state": "Emailed 60+ professors, got 3 polite rejections and 57 ignored emails. PT Cell resume deadline is in 3 weeks.",
+      "leaning_towards": "Apping, but the silence is making me want to panic-prep LeetCode just to have a Day 1 safety net."
+    },
+    "psychology": {
+      "core_value_driver": "Academic Prestige & Intellectual Challenge",
+      "primary_blocker": "High uncertainty. I am terrified of being the only one in my friend group without an internship offer by August.",
+      "risk_tolerance": "Medium (I want to risk it for foreign research, but my anxiety demands a backup)"
+    },
+    "urgency": "Critical - PT Cell portal registration closes in 14 days."
+  }
+}

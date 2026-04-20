@@ -1,0 +1,642 @@
+[
+  {
+    "mentor_id": "M_042",
+    "current_professional_profile": {
+      "name": "Aryan",
+      "graduation_year": 2024,
+      "current_role": "Founder & Technical Lead",
+      "company": "EdTech Mentorship Startup / Tokyo AI Labs",
+      "location": "Tokyo / Mumbai",
+      "industry_keywords": ["EdTech", "Video Analytics", "Machine Learning", "Entrepreneurship", "Mentorship"]
+    },
+    "campus_legacy": {
+      "branch": "Electrical Engineering",
+      "cgpa_at_graduation": "8.5 - 9.0",
+      "notable_affiliations": ["UGAC Data Analytics Team", "E-Cell"],
+      "exploration_stack_year_1": ["WCC", "IITB Racing", "Finance Club"]
+    },
+    "mentoring_meta": {
+      "advice_style": "High-Risk/Ambitious",
+      "communication_vibe": "Direct & Tactical",
+      "weekly_bandwidth_hours": 3,
+      "willing_to_review_resume": true
+    },
+    "historical_dilemmas": [
+      {
+        "category": "TECH_DOMAIN_DIVERSION",
+        "year_faced": 2,
+        "context_specifics": {
+          "options_considered": ["Web Development", "Machine Learning / AI"],
+          "path_taken": "Machine Learning / AI",
+          "primary_reason": "Wanted to build complex systems rather than just interfaces."
+        },
+        "outcome": "Secured a 3rd-year internship in Tokyo developing video analytic models.",
+        "hindsight_sentiment": "Positive"
+      },
+      {
+        "category": "APP_VS_INTERN",
+        "year_faced": 3,
+        "context_specifics": {
+          "research_target": "Applied ML Labs in Japan/US",
+          "corporate_fallback": "SDE roles via PT Cell",
+          "path_taken": "Committed fully to Apping, skipped Day 1 PT Cell."
+        },
+        "outcome": "Landed the Tokyo residency.",
+        "hindsight_sentiment": "Positive"
+      },
+      {
+        "category": "BUILD_STARTUP_VS_STABILITY",
+        "year_faced": 4,
+        "context_specifics": {
+          "startup_idea_stage": "Bootstrapping an educational mentorship platform",
+          "safety_net_offer": "Pre-Placement Offer (PPO) from an MNC",
+          "path_taken": "Rejected the PPO to scale the startup."
+        },
+        "outcome": "Currently operating the startup while acting as a Tech Lead.",
+        "hindsight_sentiment": "Mixed (High stress, but high reward)"
+      },
+      {
+        "category": "STEP_DOWN_VS_PUSH_THROUGH",
+        "year_faced": 3,
+        "context_specifics": {
+          "commitments": ["UGAC Tech Hackathons", "Heavy Core Academics", "Intern Prep"],
+          "path_taken": "Pushed through burnout without dropping PORs."
+        },
+        "outcome": "Completed the tenure successfully.",
+        "hindsight_sentiment": "Negative (Regrets not stepping down; the resume boost wasn't worth the mental toll)"
+      }
+    ]
+  },
+  {
+    "mentor_id": "M_001",
+    "current_professional_profile": {
+      "name": "Kavya",
+      "graduation_year": 2023,
+      "current_role": "Senior Business Analyst",
+      "company": "McKinsey & Company",
+      "location": "Mumbai",
+      "industry_keywords": ["Management Consulting", "Strategy", "Case Prep", "Non-Tech"]
+    },
+    "campus_legacy": {
+      "branch": "Civil Engineering",
+      "cgpa_at_graduation": "9.0 - 9.5",
+      "notable_affiliations": ["Consulting Club", "Mood Indigo Core Team"],
+      "exploration_stack_year_1": ["Debate Society", "Enactus", "WCC"]
+    },
+    "mentoring_meta": {
+      "advice_style": "Safe/Practical",
+      "communication_vibe": "Structured & Empathetic",
+      "weekly_bandwidth_hours": 2,
+      "willing_to_review_resume": true
+    },
+    "historical_dilemmas": [
+      {
+        "category": "TECH_VS_NON_TECH_FORK",
+        "year_faced": 2,
+        "context_specifics": {
+          "tech_target": "Data Analytics",
+          "non_tech_target": "Management Consulting",
+          "prep_balance": "Struggled to balance LeetCode and Case Studies.",
+          "path_taken": "Dropped coding entirely to focus on Case Prep and PORs."
+        },
+        "outcome": "Secured a top-tier consulting internship in 3rd year.",
+        "hindsight_sentiment": "Positive"
+      },
+      {
+        "category": "PIVOT_INDUSTRY",
+        "year_faced": 3,
+        "context_specifics": {
+          "from_industry": "Core Civil Engineering",
+          "to_industry": "Consulting",
+          "primary_reason": "Realized I preferred high-level business strategy over on-site engineering."
+        },
+        "outcome": "Successfully pivoted, though faced initial imposter syndrome.",
+        "hindsight_sentiment": "Positive"
+      },
+      {
+        "category": "ACCEPT_PPO_VS_PLACEMENTS",
+        "year_faced": 4,
+        "context_specifics": {
+          "ppo_offer": "Consulting Analyst at Big 4",
+          "target_placements": "MBB (McKinsey, BCG, Bain)",
+          "path_taken": "Rejected the safe PPO to sit for MBB on Day 1."
+        },
+        "outcome": "Landed McKinsey on Day 1.",
+        "hindsight_sentiment": "Positive"
+      }
+    ]
+  },
+  {
+    "mentor_id": "M_002",
+    "current_professional_profile": {
+      "name": "Rohan",
+      "graduation_year": 2022,
+      "current_role": "PhD Candidate",
+      "company": "Stanford University",
+      "location": "California, USA",
+      "industry_keywords": ["Robotics", "Control Systems", "Academia", "Research"]
+    },
+    "campus_legacy": {
+      "branch": "Aerospace Engineering",
+      "cgpa_at_graduation": "9.5+",
+      "notable_affiliations": ["Mars Rover Team", "Student Alumni Relations Cell"],
+      "exploration_stack_year_1": ["Aeromodelling Club", "Astronomy Club"]
+    },
+    "mentoring_meta": {
+      "advice_style": "High-Risk/Ambitious",
+      "communication_vibe": "Academic & Philosophical",
+      "weekly_bandwidth_hours": 1,
+      "willing_to_review_resume": false
+    },
+    "historical_dilemmas": [
+      {
+        "category": "INTERN_RESEARCH_VS_FIELD",
+        "year_faced": 2,
+        "context_specifics": {
+          "options_considered": ["Campus Lab Intern under Prof", "Off-campus Drone Startup"],
+          "path_taken": "Campus Lab Intern",
+          "primary_reason": "Needed a strong Letter of Recommendation for future foreign apps."
+        },
+        "outcome": "Published a paper which led to a MIT summer internship.",
+        "hindsight_sentiment": "Positive"
+      },
+      {
+        "category": "INDIA_VS_ABROAD_HIGHER_ED",
+        "year_faced": 4,
+        "context_specifics": {
+          "india_target": "GATE / ISRO",
+          "abroad_target": "GRE / Top 5 US PhD Programs",
+          "path_taken": "Went all-in on GRE and US applications."
+        },
+        "outcome": "Accepted into Stanford with a full fellowship.",
+        "hindsight_sentiment": "Positive"
+      }
+    ]
+  },
+  {
+    "mentor_id": "M_003",
+    "current_professional_profile": {
+      "name": "Neha",
+      "graduation_year": 2025,
+      "current_role": "Software Development Engineer",
+      "company": "Amazon",
+      "location": "Bengaluru",
+      "industry_keywords": ["Backend", "Distributed Systems", "SDE", "Big Tech"]
+    },
+    "campus_legacy": {
+      "branch": "Mechanical Engineering",
+      "cgpa_at_graduation": "7.5 - 8.0",
+      "notable_affiliations": ["Web and Coding Club"],
+      "exploration_stack_year_1": ["Robotics Club", "Sports (Badminton)"]
+    },
+    "mentoring_meta": {
+      "advice_style": "Safe/Practical",
+      "communication_vibe": "Direct & Reassuring",
+      "weekly_bandwidth_hours": 4,
+      "willing_to_review_resume": true
+    },
+    "historical_dilemmas": [
+      {
+        "category": "TECH_CORE_VS_NON_TECH_POR",
+        "year_faced": 1,
+        "context_specifics": {
+          "options_considered": ["Manager at Techfest", "Learning Web Dev independently"],
+          "path_taken": "Dropped PORs to learn coding.",
+          "primary_reason": "Knew my CGPA was low, needed hard skills to stand out."
+        },
+        "outcome": "Built a strong GitHub portfolio early.",
+        "hindsight_sentiment": "Positive"
+      },
+      {
+        "category": "DOMAIN_ADVANCEMENT_BLOCK",
+        "year_faced": 2,
+        "context_specifics": {
+          "current_domain": "Competitive Programming / DSA",
+          "progression_blocker": "Stuck at 1400 rating on Codeforces, kept failing dynamic programming questions.",
+          "path_taken": "Shifted focus from pure CP to building full-stack development projects."
+        },
+        "outcome": "The dev projects helped clear resume shortlists, while basic DSA was enough for interviews.",
+        "hindsight_sentiment": "Mixed (Wish I was better at CP, but the dev pivot saved my placements)"
+      },
+      {
+        "category": "PREP_PATH_SELECTION",
+        "year_faced": 3,
+        "context_specifics": {
+          "options_considered": ["Core Mechanical", "SDE"],
+          "path_taken": "SDE (LeetCode grinding)",
+          "primary_reason": "Better financial upside and remote work options."
+        },
+        "outcome": "Landed the Amazon PPO.",
+        "hindsight_sentiment": "Positive"
+      }
+    ]
+  },
+  {
+    "mentor_id": "M_004",
+    "current_professional_profile": {
+      "name": "Siddharth",
+      "graduation_year": 2024,
+      "current_role": "Product Designer",
+      "company": "Zomato",
+      "location": "Gurgaon",
+      "industry_keywords": ["UI/UX", "Product Design", "Social Impact", "HCI"]
+    },
+    "campus_legacy": {
+      "branch": "Chemical Engineering",
+      "cgpa_at_graduation": "8.0 - 8.5",
+      "notable_affiliations": ["Design Club", "Enactus", "Abhyuday"],
+      "exploration_stack_year_1": ["Fine Arts Club", "Enactus"]
+    },
+    "mentoring_meta": {
+      "advice_style": "Empathetic",
+      "communication_vibe": "Creative & Supportive",
+      "weekly_bandwidth_hours": 3,
+      "willing_to_review_resume": true
+    },
+    "historical_dilemmas": [
+      {
+        "category": "NON_TECH_VOLUNTEERING_VS_INTERN",
+        "year_faced": 1,
+        "context_specifics": {
+          "options_considered": ["Enactus Summer Project", "Corporate Data Entry Intern"],
+          "path_taken": "Enactus Summer Project",
+          "primary_reason": "Wanted to build something with real-world impact over a generic corporate name."
+        },
+        "outcome": "Helped launch a water-purification project, which sparked a love for human-centered design.",
+        "hindsight_sentiment": "Positive"
+      },
+      {
+        "category": "MINOR_OR_DOUBLEDOWN",
+        "year_faced": 2,
+        "context_specifics": {
+          "options_considered": ["Minor in CS", "Building a Design Portfolio"],
+          "path_taken": "Dropped the CS Minor to focus entirely on Figma and UI/UX projects.",
+          "primary_reason": "CS Minor courses were tanking my CGPA and taking time away from my actual passion."
+        },
+        "outcome": "Built a stellar Behance portfolio.",
+        "hindsight_sentiment": "Positive"
+      },
+      {
+        "category": "DEFERRED_PLACEMENT_VS_JOINING",
+        "year_faced": 4,
+        "context_specifics": {
+          "options_considered": ["Defer placements to build a design agency", "Join Zomato"],
+          "path_taken": "Joined Zomato",
+          "primary_reason": "Realized I needed industry mentorship before starting my own agency."
+        },
+        "outcome": "Working on high-impact products at scale.",
+        "hindsight_sentiment": "Negative (I sometimes wonder if I missed my window to be a young founder)"
+      }
+    ]
+  },
+  {
+    "mentor_id": "M_005",
+    "current_professional_profile": {
+      "name": "Ishaan",
+      "graduation_year": 2023,
+      "current_role": "Quantitative Analyst",
+      "company": "Jane Street",
+      "location": "Hong Kong",
+      "industry_keywords": ["HFT", "Quantitative Finance", "Mathematics", "Algorithms"]
+    },
+    "campus_legacy": {
+      "branch": "Computer Science",
+      "cgpa_at_graduation": "9.5+",
+      "notable_affiliations": ["Finance Club", "Math Olympiad Cell"],
+      "exploration_stack_year_1": ["WCC", "IITB Racing"]
+    },
+    "mentoring_meta": {
+      "advice_style": "High-Risk/Ambitious",
+      "communication_vibe": "Direct & Intense",
+      "weekly_bandwidth_hours": 1,
+      "willing_to_review_resume": false
+    },
+    "historical_dilemmas": [
+      {
+        "category": "EXPLORATION_DILEMMA",
+        "year_faced": 1,
+        "context_specifics": {
+          "curiosity_tags": ["AI/ML", "High-Frequency Trading", "Core CS Research"],
+          "primary_curiosity": "Where is the highest intellectual ceiling?"
+        },
+        "outcome": "Discovered a talent for probability and statistics, pivoted hard into Quant prep.",
+        "hindsight_sentiment": "Positive"
+      },
+      {
+        "category": "TECH_DOMAIN_DIVERSION",
+        "year_faced": 2,
+        "context_specifics": {
+          "options_considered": ["Software Engineering (SDE)", "Quantitative Finance"],
+          "path_taken": "Quantitative Finance",
+          "primary_reason": "Enjoyed mathematical puzzles more than building software architecture."
+        },
+        "outcome": "Secured a 3rd-year Quant internship.",
+        "hindsight_sentiment": "Positive"
+      },
+      {
+        "category": "STEP_DOWN_VS_PUSH_THROUGH",
+        "year_faced": 3,
+        "context_specifics": {
+          "commitments": ["Finance Club Manager", "Heavy Academics", "Quant Prep"],
+          "path_taken": "Stepped down from the Manager role mid-year.",
+          "primary_reason": "Quant prep required 100% of my mental bandwidth. The POR was a distraction."
+        },
+        "outcome": "Aced the internship interviews, but burned bridges with the club committee.",
+        "hindsight_sentiment": "Positive (The career outcome was worth the social cost)"
+      }
+    ]
+  },
+
+  {
+    "mentor_id": "M_006",
+    "current_professional_profile": {
+      "name": "Aditi",
+      "graduation_year": 2023,
+      "current_role": "Product Manager II",
+      "company": "Microsoft",
+      "location": "Bengaluru",
+      "industry_keywords": ["Product Management", "Big Tech", "Strategy", "Cross-functional", "Agile"]
+    },
+    "campus_legacy": {
+      "branch": "Energy Engineering",
+      "cgpa_at_graduation": "8.0 - 8.5",
+      "notable_affiliations": ["Entrepreneurship Cell", "Inter-IIT Sports"],
+      "exploration_stack_year_1": ["Sports", "Finance Club", "Consulting Club"]
+    },
+    "mentoring_meta": {
+      "advice_style": "Safe/Practical",
+      "communication_vibe": "Structured & Action-Oriented",
+      "weekly_bandwidth_hours": 3,
+      "willing_to_review_resume": true
+    },
+    "historical_dilemmas": [
+      {
+        "category": "TECH_VS_NON_TECH_FORK",
+        "year_faced": 2,
+        "context_specifics": {
+          "tech_target": "Software Development",
+          "non_tech_target": "Product Management",
+          "prep_balance": "60% PM Case Studies, 40% basic LeetCode for technical rounds.",
+          "path_taken": "Product Management"
+        },
+        "outcome": "Used basic coding skills to ace the technical PM rounds.",
+        "hindsight_sentiment": "Positive"
+      },
+      {
+        "category": "PIVOT_INDUSTRY",
+        "year_faced": 3,
+        "context_specifics": {
+          "from_industry": "Core Energy Systems",
+          "to_industry": "Product Management",
+          "primary_reason": "Wanted ownership of user-facing tech products rather than industrial systems."
+        },
+        "outcome": "Secured an APM internship at a unicorn startup.",
+        "hindsight_sentiment": "Positive"
+      },
+      {
+        "category": "ACCEPT_PPO_VS_PLACEMENTS",
+        "year_faced": 4,
+        "context_specifics": {
+          "ppo_offer": "APM at Startup",
+          "target_placements": "Big Tech PM (Microsoft, Google)",
+          "path_taken": "Rejected the startup PPO to sit for Big Tech PM roles."
+        },
+        "outcome": "Landed Microsoft PM on Day 2.",
+        "hindsight_sentiment": "Positive"
+      }
+    ]
+  },
+  {
+    "mentor_id": "M_007",
+    "current_professional_profile": {
+      "name": "Vikram",
+      "graduation_year": 2022,
+      "current_role": "Silicon Design Engineer",
+      "company": "Apple",
+      "location": "Munich, Germany",
+      "industry_keywords": ["Hardware", "Semiconductors", "VLSI", "Physics", "Core Engineering"]
+    },
+    "campus_legacy": {
+      "branch": "Engineering Physics",
+      "cgpa_at_graduation": "9.0 - 9.5",
+      "notable_affiliations": ["Electronics Club", "Technovation"],
+      "exploration_stack_year_1": ["Electronics Club", "Aeromodelling", "WCC"]
+    },
+    "mentoring_meta": {
+      "advice_style": "High-Risk/Ambitious",
+      "communication_vibe": "Deep-Tech & Nerdy",
+      "weekly_bandwidth_hours": 2,
+      "willing_to_review_resume": true
+    },
+    "historical_dilemmas": [
+      {
+        "category": "TECH_DOMAIN_DIVERSION",
+        "year_faced": 2,
+        "context_specifics": {
+          "options_considered": ["Software (SDE)", "Hardware / VLSI"],
+          "path_taken": "Hardware / VLSI",
+          "primary_reason": "Passionate about chip design, ignored the peer pressure to do software."
+        },
+        "outcome": "Became one of the few students specialized in core electronics.",
+        "hindsight_sentiment": "Positive"
+      },
+      {
+        "category": "INTERN_RESEARCH_VS_FIELD",
+        "year_faced": 2,
+        "context_specifics": {
+          "options_considered": ["Campus Physics Lab Intern", "Hardware Startup in Bangalore"],
+          "path_taken": "Hardware Startup",
+          "primary_reason": "Wanted tape-out experience on an actual chip, not just simulation."
+        },
+        "outcome": "Built a strong practical portfolio.",
+        "hindsight_sentiment": "Positive"
+      },
+      {
+        "category": "APP_VS_INTERN",
+        "year_faced": 3,
+        "context_specifics": {
+          "research_target": "Univ Labs (EPFL, ETH)",
+          "corporate_fallback": "Corporate R&D via PT Cell (Texas Instruments)",
+          "path_taken": "Corporate R&D"
+        },
+        "outcome": "Interned at TI, which eventually led to an off-campus Apple offer.",
+        "hindsight_sentiment": "Positive"
+      }
+    ]
+  },
+  {
+    "mentor_id": "M_008",
+    "current_professional_profile": {
+      "name": "Sanya",
+      "graduation_year": 2025,
+      "current_role": "Data Scientist",
+      "company": "Meta",
+      "location": "London, UK",
+      "industry_keywords": ["Data Science", "Machine Learning", "Analytics", "Big Data", "A/B Testing"]
+    },
+    "campus_legacy": {
+      "branch": "Mathematics (BS)",
+      "cgpa_at_graduation": "8.5 - 9.0",
+      "notable_affiliations": ["Analytics Club", "Student Mentorship Program (SMP)"],
+      "exploration_stack_year_1": ["Math Olympiad Cell", "Analytics Club"]
+    },
+    "mentoring_meta": {
+      "advice_style": "Empathetic",
+      "communication_vibe": "Warm & Analytical",
+      "weekly_bandwidth_hours": 4,
+      "willing_to_review_resume": true
+    },
+    "historical_dilemmas": [
+      {
+        "category": "EXPLORATION_DILEMMA",
+        "year_faced": 1,
+        "context_specifics": {
+          "curiosity_tags": ["Pure Math Research", "Data Science", "Economics"],
+          "primary_curiosity": "How can I apply theoretical math to real-world business problems?"
+        },
+        "outcome": "Gravitated heavily towards applied statistics and Data Science.",
+        "hindsight_sentiment": "Positive"
+      },
+      {
+        "category": "DOMAIN_ADVANCEMENT_BLOCK",
+        "year_faced": 2,
+        "context_specifics": {
+          "current_domain": "Data Science",
+          "time_invested": "12 months",
+          "progression_blocker": "Stuck doing basic Kaggle Titanic datasets. Needed real-world unstructured data experience.",
+          "path_taken": "Joined the UGAC Data Team to analyze actual campus academic data."
+        },
+        "outcome": "Built a scalable dashboard for the Dean, massive resume boost.",
+        "hindsight_sentiment": "Positive"
+      },
+      {
+        "category": "PREP_PATH_SELECTION",
+        "year_faced": 3,
+        "context_specifics": {
+          "options_considered": ["Quant Trading", "Data Science"],
+          "path_taken": "Data Science",
+          "primary_reason": "Didn't want the extreme stress of Quant interviews; preferred product-driven data work."
+        },
+        "outcome": "Aced the Meta data interviews.",
+        "hindsight_sentiment": "Positive"
+      }
+    ]
+  },
+  {
+    "mentor_id": "M_009",
+    "current_professional_profile": {
+      "name": "Tushar",
+      "graduation_year": 2024,
+      "current_role": "Investment Banking Analyst",
+      "company": "Goldman Sachs",
+      "location": "Mumbai",
+      "industry_keywords": ["Investment Banking", "Finance", "M&A", "Networking", "Valuation"]
+    },
+    "campus_legacy": {
+      "branch": "Aerospace Engineering",
+      "cgpa_at_graduation": "7.5 - 8.0",
+      "notable_affiliations": ["Mood Indigo Convener", "Finance Club"],
+      "exploration_stack_year_1": ["Mood Indigo", "Techfest", "Dramatics"]
+    },
+    "mentoring_meta": {
+      "advice_style": "High-Risk/Ambitious",
+      "communication_vibe": "Blunt & Reality-Check",
+      "weekly_bandwidth_hours": 1,
+      "willing_to_review_resume": true
+    },
+    "historical_dilemmas": [
+      {
+        "category": "TECH_CORE_VS_NON_TECH_POR",
+        "year_faced": 1,
+        "context_specifics": {
+          "options_considered": ["Aerospace Tech Team", "Mood Indigo Core"],
+          "path_taken": "Mood Indigo Core",
+          "primary_reason": "Wanted to build a massive network and soft skills."
+        },
+        "outcome": "Became Convener, but CGPA tanked to 7.5.",
+        "hindsight_sentiment": "Mixed (Loved the POR, but the low CGPA closed many doors)"
+      },
+      {
+        "category": "MINOR_OR_DOUBLEDOWN",
+        "year_faced": 2,
+        "context_specifics": {
+          "options_considered": ["Minor in Management", "Focus on saving core CGPA"],
+          "path_taken": "Minor in Management",
+          "primary_reason": "Needed academic proof of finance interest to compensate for being an Aero major."
+        },
+        "outcome": "Barely passed core subjects, but aced the minor.",
+        "hindsight_sentiment": "Positive"
+      },
+      {
+        "category": "STEP_DOWN_VS_PUSH_THROUGH",
+        "year_faced": 3,
+        "context_specifics": {
+          "commitments": ["MI Convener duties", "IB Interview Networking", "Academics"],
+          "path_taken": "Pushed through severe burnout.",
+          "primary_reason": "Felt stepping down would look like failure on the resume."
+        },
+        "outcome": "Got the IB offer, but experienced severe physical/mental exhaustion for 6 months.",
+        "hindsight_sentiment": "Negative (The human cost was too high; would advise juniors to drop something)"
+      }
+    ]
+  },
+  {
+    "mentor_id": "M_010",
+    "current_professional_profile": {
+      "name": "Meera",
+      "graduation_year": 2023,
+      "current_role": "Policy Fellow / Founder",
+      "company": "CleanTech Policy NGO",
+      "location": "New Delhi",
+      "industry_keywords": ["Public Policy", "Social Impact", "CleanTech", "NGO", "IAS Prep"]
+    },
+    "campus_legacy": {
+      "branch": "Biosciences and Bioengineering",
+      "cgpa_at_graduation": "8.5 - 9.0",
+      "notable_affiliations": ["Abhyuday Core Team", "Sustainability Cell"],
+      "exploration_stack_year_1": ["Abhyuday", "Literary Arts", "NSS"]
+    },
+    "mentoring_meta": {
+      "advice_style": "Empathetic",
+      "communication_vibe": "Philosophical & Mission-Driven",
+      "weekly_bandwidth_hours": 5,
+      "willing_to_review_resume": false
+    },
+    "historical_dilemmas": [
+      {
+        "category": "NON_TECH_VOLUNTEERING_VS_INTERN",
+        "year_faced": 1,
+        "context_specifics": {
+          "options_considered": ["Rural Volunteering Trek", "Corporate Data Intern"],
+          "path_taken": "Rural Volunteering Trek",
+          "primary_reason": "Wanted on-ground exposure to policy failures in rural healthcare."
+        },
+        "outcome": "Solidified a passion for the development sector.",
+        "hindsight_sentiment": "Positive"
+      },
+      {
+        "category": "INDIA_VS_ABROAD_HIGHER_ED",
+        "year_faced": 4,
+        "context_specifics": {
+          "india_target": "Public Policy Masters in India / UPSC Prep",
+          "abroad_target": "MS in Bioengineering in US",
+          "path_taken": "Stayed in India for Policy."
+        },
+        "outcome": "Received a fellowship to build a CleanTech NGO.",
+        "hindsight_sentiment": "Positive"
+      },
+      {
+        "category": "DEFERRED_PLACEMENT_VS_JOINING",
+        "year_faced": 4,
+        "context_specifics": {
+          "options_considered": ["Take a safe consulting job", "Defer placements to bootstrap NGO"],
+          "path_taken": "Deferred Placements",
+          "primary_reason": "Utilized IITB's policy to give the NGO a 2-year runway without fear."
+        },
+        "outcome": "NGO gained traction, never needed to return for placements.",
+        "hindsight_sentiment": "Positive"
+      }
+    ]
+  }
+
+]
