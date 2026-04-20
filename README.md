@@ -121,3 +121,41 @@ The Year 3 schema focuses heavily on the student's *target metrics* and *fallbac
   }
 }
 ````
+## 🎓 Year 4: The Endgame Phase
+In the final year, the focus shifts from preparation to permanent commitment. Students are locking in their post-graduation lives. The algorithm's matching logic evolves from "Strategy" to **Risk Appetite and Regret Minimization**.
+
+### 1. Dilemma Categories
+| Category | Description | Key Focus |
+| :--- | :--- | :--- |
+| **`ACCEPT_PPO_VS_PLACEMENTS`** | Signing a guaranteed Pre-Placement Offer (PPO) vs. risking it to sit for final placements. | **Risk vs. Reward** |
+| **`BUILD_STARTUP_VS_STABILITY`** | Rejecting corporate jobs entirely to pursue a startup venture full-time. | **Entrepreneurial Leap** |
+| **`DEFERRED_PLACEMENT_VS_JOINING`** | Using IITB's deferred placement policy to work on a social project/startup for 2 years without losing the campus safety net. | **Time Investment** |
+| **`INDIA_VS_ABROAD_HIGHER_ED`** | Preparing for CAT/GATE (staying in India) vs. GRE/GMAT (global MS/PhD). | **Geographic Vision** |
+
+### 2. Year 4 Student Schema: The Final Choice
+The Year 4 schema captures "The Hand They Are Dealt." We use the high-stress `ACCEPT_PPO_VS_PLACEMENTS` dilemma as the example here.
+
+```json
+{
+  "profile": {
+    "academic_year": 4,
+    "branch": "Your_Branch",
+    "cgpa_bracket": "8.5 - 9.0"
+  },
+  "current_dilemma": {
+    "category": "ACCEPT_PPO_VS_PLACEMENTS",
+    "context_specifics": {
+      "ppo_offer": "SDE at Morgan Stanley",
+      "target_placements": "Day 1 Quant/HFT (Jane Street, Tower Research)",
+      "deadline_to_accept": "August 15th",
+      "current_leaning": "Want to reject PPO, but terrified of going unplaced."
+    },
+    "psychology": {
+      "core_value_driver": "Financial Upside & Prestige",
+      "primary_blocker": "Fear of the 'Worst Case Scenario' (Recession market)",
+      "risk_tolerance": "Medium-High"
+    }
+  }
+}
+
+````
