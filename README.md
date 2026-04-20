@@ -43,6 +43,10 @@ To handle the ambiguity of a first-year student, the schema utilizes a flexible 
   }
 }
 
+
+
+
+
 ## ⚖️ Year 2: The Bifurcation Phase
 In the second year, the "Wide-Net" exploration of the first year begins to narrow. Students are forced to choose a "side" to build a competitive resume for the upcoming internship season. The algorithm transitions from matching "vague curiosities" to matching **Strategic Paths** and **Skill Scaling**.
 
