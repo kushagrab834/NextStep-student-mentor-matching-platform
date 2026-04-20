@@ -42,3 +42,41 @@ To handle the ambiguity of a first-year student, the schema utilizes a flexible 
     }
   }
 }
+
+## ⚖️ Year 2: The Bifurcation Phase
+In the second year, the "Wide-Net" exploration of the first year begins to narrow. Students are forced to choose a "side" to build a competitive resume for the upcoming internship season. The algorithm transitions from matching "vague curiosities" to matching **Strategic Paths** and **Skill Scaling**.
+
+### 1. Dilemma Categories
+| Category | Description | Key Focus |
+| :--- | :--- | :--- |
+| **`TECH_VS_NON_TECH_FORK`** | Choosing between preparing for SDE/Data Science roles vs. Consulting/Finance/PM. | **Preparation Strategy** |
+| **`TECH_DOMAIN_DIVERSION`** | Deciding on a technical specialization (e.g., SDE vs. AI/ML). | **Technical Depth** |
+| **`INTERN_RESEARCH_VS_FIELD`** | Summer lab intern on campus vs. an off-campus startup internship. | **Environment Choice** |
+| **`DOMAIN_ADVANCEMENT_BLOCK`** | Stuck at an intermediate level in a domain (e.g., Web Dev, ML) and unsure how to reach professional/research grade. | **Skill Scaling** |
+
+### 2. Year 2 Student Schema: The Fork & The Block
+The Year 2 schema introduces fields to capture the "Fork in the Road" or the "Sunk Cost" of time already invested.
+
+```json
+{
+  "profile": {
+    "academic_year": 2,
+    "branch": "Your_Branch",
+    "cgpa_bracket": "8.0 - 9.0"
+  },
+  "current_dilemma": {
+    "category": "DOMAIN_ADVANCEMENT_BLOCK",
+    "context_specifics": {
+      "current_domain": "Machine Learning",
+      "time_invested": "18 months",
+      "current_milestones": ["Completed 3 Online Courses", "Basic Kaggle participation"],
+      "progression_blocker": "Stuck on toy datasets; need research projects."
+    },
+    "psychology": {
+      "core_value_driver": "Mastery & Competence",
+      "primary_blocker": "Lack of high-level roadmap",
+      "risk_tolerance": "Low"
+    }
+  }
+}
+
