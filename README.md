@@ -45,7 +45,7 @@ To handle the ambiguity of a first-year student, the schema utilizes a flexible 
 
 ````
 
-## ⚖️ Year 2: The Bifurcation Phase
+##  Year 2: The Bifurcation Phase
 In the second year, the "Wide-Net" exploration of the first year begins to narrow. Students are forced to choose a "side" to build a competitive resume for the upcoming internship season. The algorithm transitions from matching "vague curiosities" to matching **Strategic Paths** and **Skill Scaling**.
 
 ### 1. Dilemma Categories
@@ -84,7 +84,7 @@ The Year 2 schema introduces fields to capture the "Fork in the Road" or the "Su
 
 ````
 
-## ♟️ Year 3: The High-Stakes Strategy Phase
+## Year 3: The High-Stakes Strategy Phase
 In the third year, broad exploration ends and execution begins. Students are aggressively preparing for the PT Cell (Placement Team) internship drive or applying to foreign universities ("Apping"). The system transitions from matching "Paths" to matching **Execution Tactics and Risk Hedging**.
 
 ### 1. Dilemma Categories
@@ -121,7 +121,7 @@ The Year 3 schema focuses heavily on the student's *target metrics* and *fallbac
   }
 }
 ````
-## 🎓 Year 4: The Endgame Phase
+## Year 4: The Endgame Phase
 In the final year, the focus shifts from preparation to permanent commitment. Students are locking in their post-graduation lives. The algorithm's matching logic evolves from "Strategy" to **Risk Appetite and Regret Minimization**.
 
 ### 1. Dilemma Categories
@@ -160,7 +160,7 @@ The Year 4 schema captures "The Hand They Are Dealt." We use the high-stress `AC
 
 ---
 
-## 🧠 The Mentor Schema: The "Time Machine"
+## The Mentor Schema: 
 To make the matching logic work, the Mentor Schema cannot just be a static professional profile. It must act as a "Time Machine." It captures not only where the mentor is *now*, but the specific crossroads they faced at IITB, the choices they made, and how they feel about those choices in hindsight.
 
 Below is a highly detailed, algorithm-ready Mentor Schema designed to perfectly mirror the 4-year student progression. It is populated with a realistic profile of a senior who built an educational startup and completed an international tech internship.
