@@ -245,3 +245,38 @@ This structure perfectly supports the targeted matching logic outlined in the pr
 * **Powers Year 2 (Path Alignment):** If a sophomore is stuck in a `TECH_DOMAIN_DIVERSION` between Web Dev and ML, the algorithm dives into the mentor's `historical_dilemmas`. It sees this mentor explicitly chose ML over Web Dev, granting a massive `+25 pts Exact Path Match`.
 * **Powers Year 3 (Tactical Alignment):** If a junior is terrified about balancing `APP_VS_INTERN` and has a CGPA in the 8.5 range, the system matches them with this mentor who successfully navigated international "apping" with that exact academic profile.
 * **Powers Year 4 (Regret & Risk Alignment):** The `hindsight_sentiment` field is the platform's secret weapon. Because this mentor rated pushing through burnout as "Negative", if a Year 3/4 student asks about quitting a POR to focus on their mental health, this mentor gets heavily prioritized to offer that "Cautionary Tale" perspective.
+
+
+---
+
+## ⚙️ The Matching Engine: A Dynamic, Vector-Based Algorithm
+
+Instead of relying on brittle, hardcoded `if/else` rules based on string names, the NextStep matching engine uses a **Semantic and Similarity-Based Architecture**. It evaluates the compatibility between a Mentee and a Mentor across four independent mathematical vectors, ensuring the system remains robust even as new dilemma categories or JSON schema fields are introduced.
+
+### ✨ Key Architectural Differentiators
+
+#### 1. Schema-Agnostic Keyword Extraction (NLP-ready)
+The algorithm is entirely "blind" to rigid JSON structures. It uses a recursive function (`extract_keywords`) to traverse any nested dictionary or list, tokenize the strings, and extract normalized keywords. 
+* **Why this matters:** If the product team adds a new field (e.g., `target_companies` or `extracurriculars`) to the schema tomorrow, **zero backend code needs to be rewritten**. The algorithm automatically digests the new data and includes it in the matching pool.
+
+#### 2. Vector-Based Scoring (Graceful Degradation)
+Matches are calculated out of 100 points across four dynamic vectors:
+1. **Historical Category Match (40 pts):** Did the mentor explicitly face this dilemma?
+2. **Contextual Keyword Jaccard Similarity (35 pts):** Mathematical overlap of needs vs. experience.
+3. **Psychological Proximity (15 pts):** Risk-appetite alignment.
+4. **Structural Empathy (10 pts):** Shared branch or CGPA bracket.
+* **Why this matters:** If a student has a highly unique dilemma that no mentor has explicitly faced (scoring 0 on Vector 1), the system doesn't break. It *gracefully degrades*, matching them based on high keyword overlap and psychological alignment.
+
+#### 3. Context Overlap via Jaccard Similarity
+Instead of simple word matching, the engine calculates a **Jaccard-like overlap ratio**: `(Intersection of Keywords) / (Total Size of Mentee's Needs)`. 
+* **Why this matters:** It ensures that a mentor is ranked high because they cover a *large percentage* of the student's specific curiosities, preventing false positives from mentors who just happen to have a lot of generic buzzwords in their profile.
+
+#### 4. Psychological Distance Mapping
+Risk tolerance and advice styles aren't matched using basic text equality. The algorithm normalizes abstract text ("High", "Medium", "Low") into integers (3, 2, 1) and calculates the **absolute mathematical distance** (`abs(mentee_risk - mentor_risk)`).
+* **Why this matters:** A distance of `0` grants full points. A distance of `1` grants partial points (empathy). A distance of `2` (polar opposites, e.g., a "Safe" mentor for a "High-Risk" mentee) yields 0 points, preventing frustrating mentorship pairings.
+
+#### 5. Hindsight Sentiment Boosting
+The algorithm reads the mentor's `hindsight_sentiment` regarding their past choices. If a mentor's sentiment is distinctly "Positive" (success) or "Negative" (regret), they receive a targeted score boost.
+* **Why this matters:** It prioritizes mentors who have definitive, actionable outcomes. A mentor who deeply regrets taking a PPO provides a much more powerful, visceral "Cautionary Tale" to a mentee than someone who feels completely neutral about their past.
+
+---
